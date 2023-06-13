@@ -76,7 +76,7 @@ Workshop
    |_|           16:00-17:00  Activity  Report on Assignment 2                              Moore, Hart, Maarleveld    `Building 34`_ `Hall G`_
    |_|           17:00-17:30  Activity  Assignment 3 Introduction                           Moore, Hart                `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jul-13      10:00-12:00  Lecture   TBA                                                                            `Building 34`_ `Hall G`_
+   R-Jul-13      10:00-12:00  Lecture   Mechanical Shock and Vibration in Cycling           Stefan Schwanitz           `Building 34`_ `Hall G`_
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, Hart, Maarleveld    `Building 34`_ `Hall G`_
    |_|           14:00-17:00  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
