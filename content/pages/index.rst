@@ -166,7 +166,7 @@ Course Organizers
 | N.J.M.Kleven@tudelft.nl
 |
 | Ragnhild Maarleveld
-| Teaching Assistant 
+| Teaching Assistant
 | Sports Engineering Institute, Delft University of Technology
 | R.Maarleveld@student.tudelft.nl
 
@@ -197,11 +197,12 @@ team:
   done.
 
 It is important to access the team the week before class and report any issues
-to N.J.M.Kleven@tudelft.nl for access help. We have had some connection issues
-in the past.
+to R.Maarleveld@student.tudelft.nl for access help. We have had some connection
+issues in the past.
 
 If you are not registered for the course but would like to join the live
-lectures, send an email to N.J.M.Kleven@tudelft.nl with a request to be added.
+lectures, send an email to R.Maarleveld@student.tudelft.nl with a request to be
+added.
 
 To join the live lectures and activities:
 
