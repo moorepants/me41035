@@ -23,7 +23,28 @@ Groups will need to make use of simple tools and accessible data at your
 disposal: tape measures, kilometer markers, stopwatches, smartphone sensors,
 cameras, video cameras, GIS downloads, etc. Be clever and resourceful!
 
-Assignment 1: Estimate Air and Rolling Resistance
+Assignment 1: Estimate Athlete Power Capacity
+=============================================
+
+The objective of this assignment is to estimate aerobic capacity for at least
+two members of your group and anaerobic capacity for at least one member of
+your group. The aerobic  capacity type estimate should be based off of data
+your group collects, but should be supplemented or supported by values found in
+relevant scientific literature. The anaerobic can come from literature if an
+appropriate experiment cannot be performed.
+
+The aims are to:
+
+- Design and execute simple experiments using measurement tools at your
+  disposal to collect the necessary data needed for your estimates.
+- Calculate reasonable estimates for the aerobic and anaerobic capacity of the
+  chosen athletes.
+- Compare the aerobic capacities of two members of your group and report on the
+  anaerobic capacity of one member.
+- Report on your experiment and result in the light of available information
+  from sports engineering scientific literature.
+
+Assignment 2: Estimate Air and Rolling Resistance
 =================================================
 
 The primary objective of this assignment is to estimate the contributions of
@@ -48,27 +69,6 @@ The aims are to:
 
 In total, you will need data from a minimum of 4 trials: air resistance,
 rolling resistance, modified air resistance, modified rolling resistance.
-
-Assignment 2: Estimate Athlete Power Capacity
-=============================================
-
-The objective of this assignment is to estimate aerobic capacity for at least
-two members of your group and anaerobic capacity for at least one member of
-your group. The aerobic  capacity type estimate should be based off of data
-your group collects, but should be supplemented or supported by values found in
-relevant scientific literature. The anaerobic can come from literature if an
-appropriate experiment cannot be performed.
-
-The aims are to:
-
-- Design and execute simple experiments using measurement tools at your
-  disposal to collect the necessary data needed for your estimates.
-- Calculate reasonable estimates for the aerobic and anaerobic capacity of the
-  chosen athletes.
-- Compare the aerobic capacities of two members of your group and report on the
-  anaerobic capacity of one member.
-- Report on your experiment and result in the light of available information
-  from sports engineering scientific literature.
 
 Assignment 3: Predict Race Duration
 ===================================
