@@ -4,13 +4,6 @@ Assignments
 
 :title: Assignments
 :sortorder: 2
-:status: hidden
-
-.. topic:: Assignments May Change
-   :class: alert alert-warning
-
-   This describes the assignments from 2022. They may change for 2023 and will
-   be finalized just before the course starts.
 
 The assignments will be done in groups comprised of four or five students. The
 groups will be formed to mix students from the participating universities and
@@ -28,10 +21,11 @@ Assignment 1: Estimate Athlete Power Capacity
 
 The objective of this assignment is to estimate aerobic capacity for at least
 two members of your group and anaerobic capacity for at least one member of
-your group. The aerobic  capacity type estimate should be based off of data
-your group collects, but should be supplemented or supported by values found in
-relevant scientific literature. The anaerobic can come from literature if an
-appropriate experiment cannot be performed.
+your group. Both results should should be based off of data your group
+collects, but should be supplemented or supported by values found in relevant
+scientific literature. You will have the option to do a Wingate and
+VO2-Max test in the bicycle lab for one subject per team, so the second aerobic
+test should be using a simple method. [1]_
 
 The aims are to:
 
@@ -44,62 +38,66 @@ The aims are to:
 - Report on your experiment and result in the light of available information
   from sports engineering scientific literature.
 
-Assignment 2: Estimate Air and Rolling Resistance
-=================================================
+.. [1] Your team may opt out of performing the Wingate and VO2max tests. In
+   that case, use simpler tests, another team's data, or data from literature.
 
-The primary objective of this assignment is to estimate the contributions of
-air resistance and rolling resistance for at least one member of your group and
-their vehicle. The secondary objective is to compare lower or higher air and
-rolling resistance effects. Each estimate should be based off of data your
-group collects, and should be supplemented or supported by values found in
-relevant scientific literature.
+..
+   Assignment 2: Estimate Air and Rolling Resistance
+   =================================================
 
-The aims are to:
+   The primary objective of this assignment is to estimate the contributions of
+   air resistance and rolling resistance for at least one member of your group and
+   their vehicle. The secondary objective is to compare lower or higher air and
+   rolling resistance effects. Each estimate should be based off of data your
+   group collects, and should be supplemented or supported by values found in
+   relevant scientific literature.
 
-- Design and execute two simple experiments to collect the necessary data
-  needed for calculating air and rolling resistance estimates.
-- Calculate reasonable estimates for the two losses for a vehicle and rider of
-  your choice.
-- Show the effect of self-chosen vehicle/rider modification that affects the
-  air resistance estimates.
-- Show the effect of self-chosen vehicle/rider modification that affects the
-  rolling resistance estimates.
-- Report on your experiment and result in the light of available information
-  from sports engineering scientific literature.
+   The aims are to:
 
-In total, you will need data from a minimum of 4 trials: air resistance,
-rolling resistance, modified air resistance, modified rolling resistance.
+   - Design and execute two simple experiments to collect the necessary data
+     needed for calculating air and rolling resistance estimates.
+   - Calculate reasonable estimates for the two losses for a vehicle and rider of
+     your choice.
+   - Show the effect of self-chosen vehicle/rider modification that affects the
+     air resistance estimates.
+   - Show the effect of self-chosen vehicle/rider modification that affects the
+     rolling resistance estimates.
+   - Report on your experiment and result in the light of available information
+     from sports engineering scientific literature.
 
-Assignment 3: Predict Race Duration
-===================================
+   In total, you will need data from a minimum of 4 trials: air resistance,
+   rolling resistance, modified air resistance, modified rolling resistance.
 
-The objective of this assignment is to predict the duration for a race against
-time for multiple laps in a velodrome for at least one member of your group and
-two scenarios of your choice. If you want to do something different than a race
-against time, consult with the instructors. At least one scenario should be
-significantly different than simply a time trial of a race bike on the track.
-For example, think about tire type and pressure, aerodynamic changes, drafting,
-unusual bicycles (cargo, tandem, omafiets, etc.).
+   Assignment 3: Predict Race Duration
+   ===================================
 
-The aims are to:
+   The objective of this assignment is to predict the duration for a race against
+   time for multiple laps in a velodrome for at least one member of your group and
+   two scenarios of your choice. If you want to do something different than a race
+   against time, consult with the instructors. At least one scenario should be
+   significantly different than simply a time trial of a race bike on the track.
+   For example, think about tire type and pressure, aerodynamic changes, drafting,
+   unusual bicycles (cargo, tandem, omafiets, etc.).
 
-- Develop a computational model to estimate the race time in the velodrome
-  based on collected data and work done in the prior assignments.
-- Collect necessary data for the race to make your time prediction using your
-  cycling power balance model.
-- Compare the two scenarios and how well you were able to predict both,
-  explaining why.
-- Report on your experiment and result in the light of available information
-  from sports engineering scientific literature.
+   The aims are to:
 
-In total you will need data from a minimum of 2 trials, one data set from each
-scenario.
+   - Develop a computational model to estimate the race time in the velodrome
+     based on collected data and work done in the prior assignments.
+   - Collect necessary data for the race to make your time prediction using your
+     cycling power balance model.
+   - Compare the two scenarios and how well you were able to predict both,
+     explaining why.
+   - Report on your experiment and result in the light of available information
+     from sports engineering scientific literature.
+
+   In total you will need data from a minimum of 2 trials, one data set from each
+   scenario.
 
 Assessment
 ==========
 
 **All assessment documents should be submitted as a PDF to the "Files" area of
-your group's private channel in the "Sports Engineering 2022" MS Team.**
+your group's private channel in the "Sports Engineering 2023" MS Team.**
 
 Intermediate Reporting
 ----------------------
@@ -119,7 +117,7 @@ Final Report
 
 Each group should submit a PDF final report with maximum of 6 pages of content
 including methods, results, and discussion based on the two intermediate
-reports and your final work by 23:59 Friday July 15th, 2022. At least six
+reports and your final work by 23:59 Friday July 21th, 2023. At least six
 scientific literature resources should be used and cited. The title, author
 list, and bibliography do not count against the page limit.
 
