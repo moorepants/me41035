@@ -41,33 +41,34 @@ The aims are to:
 .. [1] Your team may opt out of performing the Wingate and VO2max tests. In
    that case, use simpler tests, another team's data, or data from literature.
 
+Assignment 2: Estimate Air and Rolling Resistance
+=================================================
+
+The primary objective of this assignment is to estimate the contributions of
+air resistance and rolling resistance for at least one member of your group and
+their vehicle. The secondary objective is to compare (drastic) lower or higher
+air and rolling resistance effects. Each estimate should be based off of data
+your group collects in experimentation, and should be supplemented or supported
+by values found in relevant scientific literature and/or analytical
+calculations.
+
+The aims are to:
+
+- Design and execute two simple experiments to collect the necessary data
+  needed for calculating air and rolling resistance estimates.
+- Calculate reasonable estimates for the two losses for a vehicle and rider of
+  your choice.
+- Show the effect of self-chosen vehicle/rider modification that affects the
+  air resistance estimates.
+- Show the effect of self-chosen vehicle/rider modification that affects the
+  rolling resistance estimates.
+- Report on your experiment and result in the light of available information
+  from sports engineering scientific literature.
+
+In total, you will need data from a minimum of 4 trials: air resistance,
+rolling resistance, modified air resistance, modified rolling resistance.
+
 ..
-   Assignment 2: Estimate Air and Rolling Resistance
-   =================================================
-
-   The primary objective of this assignment is to estimate the contributions of
-   air resistance and rolling resistance for at least one member of your group and
-   their vehicle. The secondary objective is to compare lower or higher air and
-   rolling resistance effects. Each estimate should be based off of data your
-   group collects, and should be supplemented or supported by values found in
-   relevant scientific literature.
-
-   The aims are to:
-
-   - Design and execute two simple experiments to collect the necessary data
-     needed for calculating air and rolling resistance estimates.
-   - Calculate reasonable estimates for the two losses for a vehicle and rider of
-     your choice.
-   - Show the effect of self-chosen vehicle/rider modification that affects the
-     air resistance estimates.
-   - Show the effect of self-chosen vehicle/rider modification that affects the
-     rolling resistance estimates.
-   - Report on your experiment and result in the light of available information
-     from sports engineering scientific literature.
-
-   In total, you will need data from a minimum of 4 trials: air resistance,
-   rolling resistance, modified air resistance, modified rolling resistance.
-
    Assignment 3: Predict Race Duration
    ===================================
 
