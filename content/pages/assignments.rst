@@ -139,7 +139,7 @@ list, and bibliography do not count against the page limit.
 Final Presentation
 ------------------
 
-Each group will present a maximum 15 minute presentation the afternoon of the
+Each group will present a maximum 10 minute presentation the afternoon of the
 last day. The presentation will be followed by 5 minutes of Q & A. You should
 present your model predictions and its comparison to the measured race duration
 to the class, including the procedures and results of assignments 1 & 2 on
