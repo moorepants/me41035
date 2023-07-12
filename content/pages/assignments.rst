@@ -68,31 +68,45 @@ The aims are to:
 In total, you will need data from a minimum of 4 trials: air resistance,
 rolling resistance, modified air resistance, modified rolling resistance.
 
-..
-   Assignment 3: Predict Race Duration
-   ===================================
+Assignment 3: Predict Race Duration
+===================================
 
-   The objective of this assignment is to predict the duration for a race against
-   time for multiple laps in a velodrome for at least one member of your group and
-   two scenarios of your choice. If you want to do something different than a race
-   against time, consult with the instructors. At least one scenario should be
-   significantly different than simply a time trial of a race bike on the track.
-   For example, think about tire type and pressure, aerodynamic changes, drafting,
-   unusual bicycles (cargo, tandem, omafiets, etc.).
+The objective of this assignment is to predict the duration of each of two laps
+in a race against time and also the distance of a coast down for at least one
+member of your group and two scenarios of your choice. At least one scenario
+should be significantly different than simply a time trial of a race bike on
+the track. For example, think about tire type and pressure, aerodynamic
+changes, drafting, unusual bicycles (cargo, tandem, omafiets, etc.).
 
-   The aims are to:
+Each scenario should consist of three+ consecutive laps in the safety zone
+(flat part below the gray part):
 
-   - Develop a computational model to estimate the race time in the velodrome
-     based on collected data and work done in the prior assignments.
-   - Collect necessary data for the race to make your time prediction using your
-     cycling power balance model.
-   - Compare the two scenarios and how well you were able to predict both,
-     explaining why.
-   - Report on your experiment and result in the light of available information
-     from sports engineering scientific literature.
+- One lap from a standstill to top speed
+- One lap at max speed
+- Lap(s) from coasting from max speed to standstill
 
-   In total you will need data from a minimum of 2 trials, one data set from each
-   scenario.
+The three predictions you should make are:
+
+- Duration of first lap
+- Duration of second lap
+- Distance of coast down
+
+Submit your values by 12:00 on Friday to the instructors.
+
+The aims are to:
+
+- Develop a computational model to estimate the race times and coast distance
+  in the velodrome based on collected data and work done in the prior
+  assignments.
+- Collect necessary data for the race to make your time prediction using your
+  cycling power balance model.
+- Compare the two scenarios and how well you were able to predict both,
+  explaining why.
+- Report on your experiment and result in the light of available information
+  from sports engineering scientific literature.
+
+In total you will need data from a minimum of 2 trials, one data set from each
+scenario.
 
 Assessment
 ==========
