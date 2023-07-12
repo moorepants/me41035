@@ -79,6 +79,7 @@ Workshop
    |_|           12:30-14:30  Activity  Time trials                                         Moore, Hart, Maarleveld    `Alkmaar Velodrome`_
    |_|           14:45-17:00  Activity  Final presentations                                 Moore, Hart, Maarleveld    `Alkmaar Velodrome`_
    |_|           17:00-19:00  Travel    Return to TU Delft                                                             `TU Delft Aula`_
+   |_|           19:00-?      Activity  Social event in Delft                                                          `Mooie Boules`_
    ============  ===========  ========  ==================================================  =========================  ===================
 
 .. _Building 34: https://iamap.tudelft.nl/en/poi/mechanical-maritime-and-materials-engineering-3me/
@@ -89,3 +90,4 @@ Workshop
 .. _ID Kafee: https://studieverenigingid.nl/id-kafee/
 .. _Bicycle Lab: https://mechmotum.github.io/contact.html
 .. _Alkmaar Velodrome: https://www.sportpaleis-alkmaar.nl/wielerbaan/
+.. _Mooie Boules: https://mooieboules.nl/delft/
