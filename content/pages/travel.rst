@@ -9,14 +9,14 @@ Travel & Accomodation
 Accommodation options
 =====================
 
-- `The Social Hub (previously called The studenthotel) <https://www.thesocialhub.co/delft/>`_ 
-- `Camping: Delftse Hout <https://www.delftsehout.nl/>`_ 
+- `The Social Hub (previously called The studenthotel) <https://www.thesocialhub.co/delft/>`_
+- `Camping: Delftse Hout <https://www.delftsehout.nl/>`_
 - Apartments for rent:
 
    -  `Delft: Vakantiewoningen | Vrbo Nederland <https://www.vrbo.com/nl-nl/search/keywords:delft-zuid-holland-nederland/arrival:2023-07-02/departure:2023-07-14/minNightlyPrice/0?adultsCount=4&petIncluded=false&filterByTotalPrice=true&pinnedPropertyLabel=pinnedPropertyDatesAvailable&ssr=true>`_
    - `Airbnb <https://www.airbnb.com/s/Delft/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&price_filter_input_type=0&price_filter_num_nights=12&search_type=autocomplete_click&date_picker_type=calendar&flexible_trip_dates%5B%5D=july&checkin=2023-07-02&checkout=2023-07-14&adults=3&source=structured_search_input_header&query=Delft&place_id=ChIJ_VhfUcO1xUcRPdRLxaNcsIk>`_
 
-- Hostels for rent: 
+- Hostels for rent:
    - `Hostel Delft <https://www.hostelworld.com/st/hostels/p/94209/hostel-delft/>`_
    - `The Hague: The golden stork <https://www.thegoldenstork.com/>`_
    - `Stayokay The Hague <https://www.stayokay.com/nl/hostel/den-haag?msclkid=fc1360a1810718c174fd03730f975f40&utm_source=bing&utm_medium=cpc&utm_campaign=NL%26BE%20%7C%20Branded%20%2B%20Generic&utm_term=stayokay%20den%20haag&utm_content=Hostel%20%7C%20Den%20Haag>`_

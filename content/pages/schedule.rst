@@ -22,6 +22,12 @@ Work On Assignments
 Workshop
    Hands-on workshop tied to a lecture topic.
 
+.. topic:: Last year's schedule
+   :class: alert alert-warning
+
+   This is the 2023 schedule. The 2024 lecture list will be similar. This is
+   here for reference.
+
 .. table::
    :widths: auto
    :class: table table-striped table-bordered
