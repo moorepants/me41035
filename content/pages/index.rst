@@ -82,11 +82,11 @@ material–athlete interaction. More specifically, students should be:
 Dates
 =====
 
-.. topic:: 2023 Dates
+.. topic:: 2024 Dates
    :class: alert alert-warning
 
-   The course will occur over the two weeks of **July 3, 2023 to July 14,
-   2023** with activities scheduled throughout the day from Monday to Friday
+   The course will occur over the two weeks of **July 1, 2024 to July 12,
+   2024** with activities scheduled throughout the day from Monday to Friday
    each week. The course will be in person in Delft!
 
 Credits
@@ -104,15 +104,15 @@ a guaranteed number of slots for students from each of the participating
 universities. Excess students will be placed on a waiting list. Slots will be
 filled on a first come, first serve basis.
 
-**The registration deadline is March 1, 2023.**
+**The registration deadline is March 1, 2024.**
 
 Registration timeline:
 
-- February 1, 2023: Registration is open.
-- March 1, 2023: Registration deadline.
+- February 1, 2024: Registration is open.
+- March 1, 2024: Registration deadline.
 - Mid March: Students are informed of their team placement and asked to
   confirm.
-- May 1, 2023: Final confirmation of participation.
+- May 1, 2024: Final confirmation of participation.
 
 Reach out to your university's coordinator to find out how to register:
 
@@ -165,17 +165,16 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
 |
-| Ragnhild Maarleveld
+| TBA
 | Teaching Assistant
 | Sports Engineering Institute, Delft University of Technology
-| R.Maarleveld@student.tudelft.nl
 
 Communication
 =============
 
 We will make use of the `Microsoft Teams`_ platform for all course
 communication and hybrid lectures. We will use a "Team" named "Special Topics
-in Sports Engineering 2023" for announcements, hybrid lectures, and channels
+in Sports Engineering 2024" for announcements, hybrid lectures, and channels
 will also be available for your group to use for group work.  Hopefully, all
 communication about the class will stay within the team to simplify working
 across multiple universities and countries. Steps to getting access to the
@@ -185,7 +184,7 @@ team:
   desktop platforms).
 - If you are TU Delft student or employee, open Teams and log in with your TU
   Delft netid. Once logged in, you should see the "Special Topics in Sports
-  Engineering 2023" team under "Teams" in the MS Teams application. You are
+  Engineering 2024" team under "Teams" in the MS Teams application. You are
   done.
 - If you are not with TU Delft, create a free `Microsoft account`_ then check
   the email you registered with for the course for an invitation to the team.
@@ -193,7 +192,7 @@ team:
   University of Technology in Microsoft Teams".
 - Click the "Open Microsoft Teams" link in the email and sign into MS Teams
   with your Microsoft account. You should see the "Special Topics in Sports
-  Engineering 2023" team under "Teams" in the MS Teams application. You are
+  Engineering 2024" team under "Teams" in the MS Teams application. You are
   done.
 
 It is important to access the team the week before class and report any issues
@@ -207,7 +206,7 @@ added.
 To join the live lectures and activities:
 
 1. Open the Microsoft Teams application.
-2. Select "Teams" and then "Special Topics in Sports Engineering 2023".
+2. Select "Teams" and then "Special Topics in Sports Engineering 2024".
 3. Select the "General" channel (if not already selected).
 4. Wait for the video meeting to start and select "Join" when the meeting is
    active.
@@ -222,7 +221,7 @@ to the files.
 More Information
 ================
 
-- `TU Delft 2022/2023 Course Description <https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60825>`_
+- `TU Delft 2023/2024 Course Description <https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=65912>`_
 - `Summary blogpost from 2019 <https://engineeringsport.co.uk/2019/08/15/msc-special-topics-2019/>`_
 - `Video from 2016 <https://youtu.be/vwiljFZIr4Q>`_
 
