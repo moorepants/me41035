@@ -89,6 +89,9 @@ Dates
    2024** with activities scheduled throughout the day from Monday to Friday
    each week. The course will be in person in Delft!
 
+   If there are not enough registered students, it is possible that the course
+   will not be taught in 2024.
+
 Credits
 =======
 
