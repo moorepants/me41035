@@ -5,6 +5,11 @@ Instructor Guide
 :title: Instructor Guide
 :status: hidden
 
+January
+
+- Update the course website
+- Set up the Brightspace page with registration instructions
+
 Github
 ======
 
