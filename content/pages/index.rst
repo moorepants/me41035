@@ -163,7 +163,7 @@ Reach out to your university's coordinator to find out how to register:
      - Coordinator
      - Email
    * - Delft University of Technology
-     - 20
+     - 30
      - Email coordinator
      - Nicole Kleven
      - N.J.M.Kleven@tudelft.nl
