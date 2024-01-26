@@ -9,6 +9,7 @@ January
 
 - Update the course website
 - Set up the Brightspace page with registration instructions
+- Reserve the COSMED system for the two weeks
 
 Github
 ======
