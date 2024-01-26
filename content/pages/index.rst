@@ -15,8 +15,8 @@
 students in Mechanical Engineering, Movement Sciences, Sport Sciences, and
 other related MSc programs. The course is organized as a two-week intensive
 course and comprises lectures, demonstrations, practicals, hands-on research,
-and a final field test. The course will be taught by staff from the six
-participating universities.
+and a final field test. The course is taught by various experts from different
+scientific domains.
 
 The course is organized around a basic theme relevant for sports engineering
 and this year's theme will be "maximizing cycling performance". During the
@@ -40,20 +40,53 @@ with his or her individual bike. The bike in question can be chosen freely and
 might therefore be a top-end racing bike as well as your grandmother's shopping
 bike.
 
-See highlights from the 2019 offering in the following video:
+Video highlights from the 2023, 2019, 2018, 2016 courses are below:
 
 .. raw:: html
 
-   <div style="text-align:center;">
+   <table>
+   <tr>
+
+   <td>
+   <iframe width="400" height="225"
+   src="https://www.youtube.com/embed/7C8L1khjuBE?si=msjY9jfFOpviAh4N"
+   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+   allowfullscreen></iframe>
+   </td>
+
+   <td>
    <iframe
-     width="560"
-     height="315"
+     width="400"
+     height="225"
      src="https://www.youtube.com/embed/tMQuWDp12i4"
      frameborder="0"
      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
      allowfullscreen>
    </iframe>
-   </div>
+   </td>
+
+   </tr>
+   <tr>
+
+   <td>
+   <iframe width="400" height="225"
+   src="https://www.youtube.com/embed/Gfi5yjoKUEw?si=xaRCezO5wnUo2VoD"
+   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+   allowfullscreen></iframe>
+   </td>
+
+   <td>
+   <iframe width="400" height="225"
+   src="https://www.youtube.com/embed/CGdwyHSQTgc?si=JlXObCIB1okU7rPm"
+   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+   allowfullscreen></iframe>
+   </td>
+
+   </tr>
+   </table>
 
 Study Goals
 ===========
@@ -90,7 +123,7 @@ Dates
    each week. The course will be in person in Delft!
 
    If there are not enough registered students, it is possible that the course
-   will not be taught in 2024.
+   will not be taught in 2024, so spread the word!
 
 Credits
 =======
@@ -199,12 +232,11 @@ team:
   done.
 
 It is important to access the team the week before class and report any issues
-to R.Maarleveld@student.tudelft.nl for access help. We have had some connection
-issues in the past.
+to the teaching assistant for access help. We have had some connection issues
+in the past.
 
 If you are not registered for the course but would like to join the live
-lectures, send an email to R.Maarleveld@student.tudelft.nl with a request to be
-added.
+lectures, send an email to the teaching assistant with a request to be added.
 
 To join the live lectures and activities:
 
