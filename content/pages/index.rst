@@ -254,6 +254,59 @@ to the files.
 .. _Microsoft Teams: https://www.microsoft.com/en-ww/microsoft-teams/group-chat-software/
 .. _Microsoft Account: https://account.microsoft.com
 
+Assessment
+==========
+
+**All assessment documents should be submitted as a PDF to the "Files" area of
+your group's private channel in the "Sports Engineering 2024" MS Team.**
+
+Intermediate Reporting
+----------------------
+
+At each reporting activity in the schedule (one for each assignment) each group
+will be expected to submit a PDF written document with 2 pages of content max
+and make a (strictly) 3 minute presentation to the class. At least two
+scientific literature resources should be used and cited in each of these
+reports. The title, author list, and bibliography do not count against the page
+limit. Submit a PDF of the report and a PDF of the slide deck to the "Files"
+section of your group's MS Team channel by the end of the reporting activity
+period. The instructors will provide unstructured written and verbal feedback
+to your group before the next assignment is introduced.
+
+Final Report
+------------
+
+Each group should submit a PDF final report with maximum of 6 pages of content
+including methods, results, and discussion based on the two intermediate
+reports and your final work by 23:59 Friday July 19th, 2024. At least six
+scientific literature resources should be used and cited. The title, author
+list, and bibliography do not count against the page limit.
+
+Final Presentation
+------------------
+
+Each group will present a maximum 10 minute presentation the afternoon of the
+last day. The presentation will be followed by 5 minutes of Q & A. You should
+present your model predictions and its comparison to the measured race duration
+to the class, including the procedures and results of assignments 1 & 2 on
+which your predictions are based. Submit a PDF of the slide deck along with
+your final report and peer review.
+
+Peer Review
+-----------
+
+Each student in the class will submit a structured review of contributions of
+yourself and your group members alongside the final report one week after the
+last day of the course. A form will be provided for this.
+
+Grading
+-------
+
+For the students collecting course credit, the grade will be either a "pass" or
+a "fail". To pass your group needs to receive a "pass" assessment on each
+report, you must participate in the group presentations, and each student
+should receive a satisfactory peer review score from their group members.
+
 More Information
 ================
 
