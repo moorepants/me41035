@@ -201,9 +201,10 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
 |
-| TBA
+| Neville NiemanT
 | Teaching Assistant
 | Sports Engineering Institute, Delft University of Technology
+| N.Nieman@student.tudelft.nl
 
 Communication
 =============
@@ -263,7 +264,8 @@ More Information
 Partners
 ========
 
-Special Topics in Sports Engineering is part of A4SEE_ a Erasmus+ Knowledge Alliance project funded by the EU.
+Special Topics in Sports Engineering was part of A4SEE_ a Erasmus+ Knowledge
+Alliance project funded by the EU.
 
 .. image:: https://moorepants.info/mechmotum-bucket/logo-a4see-484x300.png
    :align: center

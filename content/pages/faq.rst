@@ -20,6 +20,9 @@ How many hours of work is required over the two weeks?
 Do we work in teams?
    Yes, you will be in a multidisciplinary international team and will work
    with that team for each assignment.
+Is attendance required?
+   Yes, you have to attend all lectures and activities in the schedule to get
+   the credit for the course.
 Can I register myself?
    Each University will have a different way to register. See the information
    provided on the `main page <{filename}/pages/index.rst#registration>`_ or
