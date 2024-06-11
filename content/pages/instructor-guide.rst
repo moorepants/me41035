@@ -12,6 +12,31 @@ January
 - Set up the Brightspace page with registration instructions
 - Reserve the COSMED system for the two weeks
 
+Februrary
+
+- Write to guest lecturers and ask for their participation. Give an idea of
+  what dates work best for us.
+
+Four-weeks before
+
+- Order any Cosmed consumables we need
+
+Three-weeks before
+
+- Finalize schedule and post to the website.
+- Create the new MS Teams and add all participants and lecturers to it.
+
+Two-weeks before
+
+- Send out welcome emails to both students and lecturers with basic course
+  info.
+
+One-week before
+
+- Test out a full physio experiment with the Cosmed.
+- Gather up all experimental equipment we may need and organize it a tote we
+  can carry to the classroom, sports hall, and velodrome.
+
 Github
 ======
 
