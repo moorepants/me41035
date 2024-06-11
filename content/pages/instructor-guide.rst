@@ -7,7 +7,8 @@ Instructor Guide
 
 January
 
-- Update the course website
+- Update the course website with registration info, put warnings on schedule,
+  and hide assignments.
 - Set up the Brightspace page with registration instructions
 
 Github
@@ -21,7 +22,7 @@ https://github.com/moorepants/me41035
 Brightspace
 ===========
 
-Only using for TUD student enrollment and submitting their grades.
+Only using for announcements to TU Delft students.
 
 Course email list
 =================
@@ -41,7 +42,7 @@ TA Responsibiilties
 - presence during the experiment sessions
 - reporting on the assignments
 - making presentation schedule
-- setup meetup for hybrid lectures:wq
+- setup meetup for hybrid lectures
 
 Forming teams
 -------------
