@@ -48,8 +48,8 @@ Workshop
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling & Optimization     Tom Van Wouwe, J. Moore    `Building 34`_ `Hall G`_
    |_|           13:00-14:00  Lecture   Sports Engineering at Team DSM                      Harm Ubbens                `Building 34`_ `Hall G`_
-   |_|           14:00-16:00  Free      Work on assignment 1                                                           `X Sports Hall`_
-   |_|           16:00-17:00  Activity  Report on assignment 1                              Moore, Hart, Maarleveld    `Building 34`_ `Hall G`_
+   |_|           14:00-16:00  Free      Work on assignment 1                                                           `Building 34`_ `Hall G`_
+   |_|           16:00-17:00  Activity  Report on assignment 1                              Moore, Nieman              `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-08      09:30-11:30  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 34`_ `Hall G`_
@@ -78,7 +78,7 @@ Workshop
    |_|           12:30-14:30  Activity  Time trials                                         Moore, Nieman              `Alkmaar Velodrome`_
    |_|           14:45-17:00  Activity  Final presentations                                 Moore, Nieman              `Alkmaar Velodrome`_
    |_|           17:00-19:00  Travel    Return to TU Delft                                                             `TU Delft Aula`_
-   |_|           19:00-?      Activity  Social event in Delft                                                          `Mooie Boules`_
+   |_|           19:00-?      Activity  Social event in Delft
    ============  ===========  ========  ==================================================  =========================  ===================
 
 .. _Building 34: https://iamap.tudelft.nl/en/poi/mechanical-maritime-and-materials-engineering-3me/
