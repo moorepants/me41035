@@ -52,9 +52,9 @@ Workshop
    |_|           16:00-17:00  Activity  Report on assignment 1                              Moore, Nieman              `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   M-Jul-08      09:30-11:30  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 34`_ `Hall G`_
-   |_|           11:30-12:30  Activity  Assignment 2 Introduction                           Moore, Nieman              `Building 34`_ `Hall G`_
-   |_|           14:00-15:00  Lecture   Bicycle Dynamics & Control                          Jason Moore                `Building 34`_ `Hall G`_
+   M-Jul-08      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 34`_ `Hall G`_
+   |_|           13:00-14:00  Lecture   Bicycle Dynamics & Control                          Jason Moore                `Building 34`_ `Hall G`_
+   |_|           14:30-15:00  Activity  Assignment 2 Introduction                           Moore, Nieman              `Building 34`_ `Hall G`_
    |_|           15:00-17:00  Free      Work on assignment 2                                                           `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    T-Jul-09      09:00-12:00  Activity  Physiology Experiments                              Nieman                     `Bicycle Lab`_
