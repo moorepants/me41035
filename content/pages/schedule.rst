@@ -43,8 +43,8 @@ Workshop
    |_|           16:00-18:00  Activity  Sports Engineering Borrel (Social)                                             `ID Kafee`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-04      09:00-12:00  Free      Work on assignment 1                                                           `X Sports Hall`_
-   |_|           12:00-13:00  Activity  Office hours, Q & A                                 Moore, Nieman              `X Sports Hall`_
-   |_|           13:00-17:00  Free      Work on assignment 1                                                           `X Sports Hall`_
+   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, Nieman              `X Sports Hall`_
+   |_|           14:00-17:00  Free      Work on assignment 1                                                           `X Sports Hall`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling & Optimization     Tom Van Wouwe, J. Moore    `Building 34`_ `Hall G`_
    |_|           13:00-14:00  Lecture   Sports Engineering at Team DSM                      Harm Ubbens                `Building 34`_ `Hall G`_
@@ -67,8 +67,8 @@ Workshop
    |_|           15:30-16:30  Activity  Report on Assignment 2                              Moore, Nieman              `Building 34`_ `Hall G`_
    |_|           16:30-17:00  Activity  Assignment 3 Introduction                           Moore, Nieman              `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jul-11      10:00-12:00  Lecture   Thermo Physiology                                   Hein Daanen                `Building 34`_ `Hall G`_
-   |_|           13:00-15:00  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
+   R-Jul-11      09:00-11:00  Lecture   Thermo Physiology                                   Hein Daanen                `Building 34`_ `Hall G`_
+   |_|           11:00-15:00  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
    |_|           15:00-16:00  Activity  Office hours, Q & A                                 Moore, Nieman              `Building 34`_ `Hall G`_
    |_|           16:00-17:00  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
