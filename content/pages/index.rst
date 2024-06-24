@@ -201,7 +201,7 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
 |
-| Neville NiemanT
+| Neville Nieman
 | Teaching Assistant
 | Sports Engineering Institute, Delft University of Technology
 | N.Nieman@student.tudelft.nl
