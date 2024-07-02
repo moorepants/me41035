@@ -33,7 +33,7 @@ Workshop
    |_|           13:00-15:00  Activity  Meet your group and kickoff activity                Moore, Nieman              `Building 34`_ `Hall G`_
    |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  TBA                        `Building 34`_ `Hall G`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   T-Jul-02      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciaccitano         `Building 34`_ `Hall G`_
+   T-Jul-02      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciacchitano        `Building 34`_ `Hall G`_
    |_|           13:00-16:30  Workshop  Aerodynamics Workshop                               Wouter Terra               `Open Jet Facility`_
    |_|           16:30-17:00  Activity  Assignment 1 Introduction                           Moore, Nieman              `Open Jet Facility`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
