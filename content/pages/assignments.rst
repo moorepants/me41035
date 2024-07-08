@@ -50,32 +50,31 @@ rolling resistance, modified air resistance, modified rolling resistance.
 Submit the report to your teams channel "Files" by the deadline and prepare a
 lightning talk to give during class on the results of your assignment.
 
+Assignment 2: Estimate Athlete Power Capacity
+=============================================
+
+The objective of this assignment is to estimate aerobic capacity for at least
+two members of your group and anaerobic capacity for at least one member of
+your group. Both results should should be based off of data your group
+collects, but should be supplemented or supported by values found in relevant
+scientific literature. You will have the option to do a Wingate and
+VO2-Max test in the bicycle lab for one subject per team, so the second aerobic
+test should be using a simple method. [1]_
+
+The aims are to:
+
+- Design and execute simple experiments using measurement tools at your
+  disposal to collect the necessary data needed for your estimates.
+- Calculate reasonable estimates for the aerobic and anaerobic capacity of the
+  chosen athletes.
+- Compare the aerobic capacities of two members of your group and report on the
+  anaerobic capacity of one member.
+- Report on your experiment and result in the light of available information
+  from sports engineering scientific literature.
+
+.. [1] Your team may opt out of performing the Wingate and VO2max tests. In
+   that case, use simpler tests, another team's data, or data from literature.
 ..
-   Assignment 2: Estimate Athlete Power Capacity
-   =============================================
-
-   The objective of this assignment is to estimate aerobic capacity for at least
-   two members of your group and anaerobic capacity for at least one member of
-   your group. Both results should should be based off of data your group
-   collects, but should be supplemented or supported by values found in relevant
-   scientific literature. You will have the option to do a Wingate and
-   VO2-Max test in the bicycle lab for one subject per team, so the second aerobic
-   test should be using a simple method. [1]_
-
-   The aims are to:
-
-   - Design and execute simple experiments using measurement tools at your
-     disposal to collect the necessary data needed for your estimates.
-   - Calculate reasonable estimates for the aerobic and anaerobic capacity of the
-     chosen athletes.
-   - Compare the aerobic capacities of two members of your group and report on the
-     anaerobic capacity of one member.
-   - Report on your experiment and result in the light of available information
-     from sports engineering scientific literature.
-
-   .. [1] Your team may opt out of performing the Wingate and VO2max tests. In
-      that case, use simpler tests, another team's data, or data from literature.
-
    Assignment 3: Predict Race Duration
    ===================================
 
