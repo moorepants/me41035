@@ -74,43 +74,43 @@ The aims are to:
 
 .. [1] Your team may opt out of performing the Wingate and VO2max tests. In
    that case, use simpler tests, another team's data, or data from literature.
-..
-   Assignment 3: Predict Race Duration
-   ===================================
 
-   The objective of this assignment is to predict the duration of each of two laps
-   in a race against time and also the distance of a coast down for at least one
-   member of your group and two scenarios of your choice. At least one scenario
-   should be significantly different than simply a time trial of a race bike on
-   the track. For example, think about tire type and pressure, aerodynamic
-   changes, drafting, unusual bicycles (cargo, tandem, omafiets, etc.).
+Assignment 3: Predict Race Duration
+===================================
 
-   Each scenario should consist of three+ consecutive laps in the safety zone
-   (flat part below the gray part):
+The objective of this assignment is to predict the duration of each of two laps
+in a race against time and also the distance of a coast down for at least one
+member of your group and two scenarios of your choice. At least one scenario
+should be significantly different than simply a time trial of a race bike on
+the track. For example, think about tire type and pressure, aerodynamic
+changes, drafting, unusual bicycles (cargo, tandem, omafiets, etc.).
 
-   - One lap from a standstill to top speed
-   - One lap at max speed
-   - Lap(s) from coasting from max speed to standstill
+Each scenario should consist of three+ consecutive laps in the safety zone
+(flat part below the gray part):
 
-   The three predictions you should make are:
+- One lap from a standstill to top speed
+- One lap at max speed
+- Lap(s) from coasting from max speed to standstill
 
-   - Duration of first lap
-   - Duration of second lap
-   - Distance of coast down
+The three predictions you should make are:
 
-   Submit your values by 12:00 on Friday to the instructors.
+- Duration of first lap
+- Duration of second lap
+- Distance of coast down
 
-   The aims are to:
+Submit your values by 12:00 on Friday to the instructors.
 
-   - Develop a computational model to estimate the race times and coast distance
-     in the velodrome based on collected data and work done in the prior
-     assignments.
-   - Collect necessary data for the race to make your time prediction using your
-     cycling power balance model.
-   - Compare the two scenarios and how well you were able to predict both,
-     explaining why.
-   - Report on your experiment and result in the light of available information
-     from sports engineering scientific literature.
+The aims are to:
 
-   In total you will need data from a minimum of 2 trials, one data set from each
-   scenario.
+- Develop a computational model to estimate the race times and coast distance
+  in the velodrome based on collected data and work done in the prior
+  assignments.
+- Collect necessary data for the race to make your time prediction using your
+  cycling power balance model.
+- Compare the two scenarios and how well you were able to predict both,
+  explaining why.
+- Report on your experiment and result in the light of available information
+  from sports engineering scientific literature.
+
+In total you will need data from a minimum of 2 trials, one data set from each
+scenario.
