@@ -4,6 +4,11 @@
 .. |_| unicode:: 0xA0
    :trim:
 
+.. warning::
+
+   This is last year's schedule, just for reference. It will be updated for the
+   2025 offering closer to the start of the course.
+
 **Listed times are CEST (UTC +2).**
 
 Office Hours
