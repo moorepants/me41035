@@ -4,7 +4,8 @@
 .. |_| unicode:: 0xA0
    :trim:
 
-.. warning::
+.. topic::
+   :class: alert alert-warning
 
    This is last year's schedule, just for reference. It will be updated for the
    2025 offering closer to the start of the course.
