@@ -4,7 +4,7 @@
 .. |_| unicode:: 0xA0
    :trim:
 
-.. topic::
+.. topic:: Old Schedule
    :class: alert alert-warning
 
    This is last year's schedule, just for reference. It will be updated for the
