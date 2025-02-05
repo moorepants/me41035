@@ -163,12 +163,12 @@ Reach out to your university's coordinator to find out how to register:
      - Coordinator
      - Email
    * - Delft University of Technology
-     - 30
+     - 25
      - Email coordinator
      - Nicole Kleven
      - N.J.M.Kleven@tudelft.nl
    * - Sheffield Hallam University
-     - 5
+     - 10
      - Email coordinator
      - Michael Thelwell
      - M.Thelwell@shu.ac.uk
@@ -183,7 +183,7 @@ Reach out to your university's coordinator to find out how to register:
      - Stephan Odenwald
      - stephan.odenwald@mb.tu-chemnitz.de
    * - FH Technikum Wien
-     - 5
+     - 10
      - Email coordinator
      - Stefan Litzenberger
      - litzenberger@technikum-wien.at

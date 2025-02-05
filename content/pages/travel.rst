@@ -28,9 +28,6 @@ Travel information
 Airplane
 --------
 
-**Beware that Schiphol has had staff shortages and wait times may be very
-long.**
-
 `Schiphol International Airport <https://www.schiphol.nl/en/>`_ is one of the
 central airports. All the well-known airlines are flying from and to Schiphol
 on a daily base. Transportation from Schiphol Airport to Delft is possible by
@@ -72,6 +69,7 @@ By train
 
 Transportation within Delft
 ---------------------------
+
 Delft is a small town, and distances are all relatively small. The city center
 is walking distance from the railway station. Both the railway station and the
 city center are no more than 2.5 km from the university campus and Geoscience
