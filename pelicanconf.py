@@ -62,7 +62,7 @@ else:
 
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
-SITESUBTITLE = 'ME41035 2024 Q4'
+SITESUBTITLE = 'ME41035 2024/2025 Q4'
 SITEIMAGE = 'https://moorepants.info/mechmotum-bucket/cyclist-sketch-john-hart.png'
 # INSTITUTEIMAGE should be 100px in height
 #INSTITUTIONIMAGE = 'https://moorepants.info/mechmotum-bucket/tu-delft-logo-233x100.png'
