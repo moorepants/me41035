@@ -95,7 +95,7 @@ After following this course, students should understand the complexity of
 maximizing sports performance and the importance of the inclusion of
 material–athlete interaction. More specifically, students should be:
 
-- Familiar with the Power Equation concept and be able to apply this to
+- Familiar with the power equation concept and be able to apply this to
   cycling;
 - Have knowledge of methodological aspects of sports research, in particular
   error propagation, man–machine interaction (closed loop complexity),
@@ -201,6 +201,11 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
 |
+| Eloy Vázquez Fernández
+| Teaching Assistant
+| Sports Engineering Institute, Delft University of Technology
+| E.VazquezFernandez@student.tudelft.nl
+|
 
 Communication
 =============
@@ -274,15 +279,15 @@ Final Report
 
 Each group should submit a PDF final report with maximum of 6 pages of content
 including methods, results, and discussion based on the two intermediate
-reports and your final work by 23:59 Friday July 18th, 2025. At least six
+reports and your final work by **23:59 Friday July 18th, 2025**. At least six
 scientific literature resources should be used and cited. The title, author
 list, and bibliography do not count against the page limit.
 
 Final Presentation
 ------------------
 
-Each group will present a maximum 10 minute presentation the afternoon of the
-last day. The presentation will be followed by 5 minutes of Q & A. You should
+Each group will present a maximum 6 minute presentation the afternoon of the
+last day. The presentation will be followed by 2 minutes of Q & A. You should
 present your model predictions and its comparison to the measured race duration
 to the class, including the procedures and results of assignments 1 & 2 on
 which your predictions are based. Submit a PDF of the slide deck along with

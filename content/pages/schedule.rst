@@ -4,18 +4,12 @@
 .. |_| unicode:: 0xA0
    :trim:
 
-.. topic:: Old Schedule
-   :class: alert alert-warning
-
-   This is last year's schedule, just for reference. It will be updated for the
-   2025 offering closer to the start of the course.
-
 **Listed times are CEST (UTC +2).**
 
 Office Hours
    Open Q & A with the instructors.
 Final Presentations
-   During the final presentation period, each team will give a 15 minute talk
+   During the final presentation period, each team will give a 6 minute talk
    about their methods and findings according to a provided schedule.
 Lecture
    A lecture, presentation, or talk given by the listed instructor.
@@ -35,62 +29,65 @@ Workshop
    ============  ===========  ========  ==================================================  =========================  ===================
    Date          Time (CEST)  Type      Topic                                               Instructor                 Location
    ============  ===========  ========  ==================================================  =========================  ===================
-   M-Jul-01      10:00-12:00  Lecture   Introduction                                        John Hart                  `Building 34`_ `Hall G`_
-   |_|           13:00-15:00  Activity  Meet your group and kickoff activity                Moore, Nieman              `Building 34`_ `Hall G`_
-   |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  TBA                        `Building 34`_ `Hall G`_
+   M-Jun-30      10:00-12:00  Lecture   Introduction                                        John Hart                  `Building 33`_ `Hall 9`_
+   |_|           12:30-14:00  Activity  Meet your group and kickoff activity                Hart, Moore, Vázquez       `Building 33`_ `Hall 9`_
+   |_|           14:00-16:00  Lecture   Thermo Physiology                                   Hein Daanen                `Building 33`_ `Hall 9`_
+   |_|           16:00-16:20  Activity  Assignment 1 Introduction                           Moore, Vázquez             `Building 33`_ `Hall 9`_
+   |_|           16:30-18:00  Activity  Sports Engineering Borrel (Social)                                             `Cafe X`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   T-Jul-02      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciacchitano        `Building 34`_ `Hall G`_
-   |_|           13:00-16:30  Workshop  Aerodynamics Workshop                               Wouter Terra               `Open Jet Facility`_
-   |_|           16:30-17:00  Activity  Assignment 1 Introduction                           Moore, Nieman              `Open Jet Facility`_
+   T-Jul-01      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 33`_ `Hall 9`_
+   |_|           13:00-18:00  Activity  Physiology Experiments                              Vázquez                    `Bicycle Lab`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   W-Jul-03      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason Moore                `Building 34`_ `Hall G`_
-   |_|           13:00-15:00  Lecture   Smartphone Measurement and Data Analysis            Jason Moore                `Building 34`_ `Hall G`_
-   |_|           15:00-16:00  Free      Work on assignment 1                                                           `Building 34`_ `Hall G`_
-   |_|           16:00-18:00  Activity  Sports Engineering Borrel (Social)                                             `ID Kafee`_
+   W-Jul-02      09:00-13:00  Lecture   Physiology Experiments                              Vázquez                    `Bicycle Lab`_
+   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore                      `Building 33`_ `Hall 9`_
+   |_|           14:00-18:00  Activity  Physiology Experiments                              Vázquez                    `Bicycle Lab`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jul-04      09:00-12:00  Free      Work on assignment 1                                                           `X Sports Hall`_
-   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, Nieman              `X Sports Hall`_
-   |_|           14:00-17:00  Free      Work on assignment 1                                                           `X Sports Hall`_
+   R-Jul-03      09:00-10:00  Free      Work on assignment 1                                                           `Building 33`_ `Hall 9`_
+   |_|           10:00-11:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `Building 33`_ `Hall 9`_
+   |_|           12:00-14:00  Free      Work on assignment 1                                                           `Building 33`_ `Hall 9`_
+   |_|           14:00-15:00  Free      Report on assignment 1                                                         `Building 33`_ `Hall 9`_
+   |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  Jason K. Moore             `Building 33`_ `Hall 9`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   F-Jul-05      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling & Optimization     Tom Van Wouwe, J. Moore    `Building 34`_ `Hall G`_
-   |_|           13:00-14:00  Lecture   Sports Engineering at Team DSM                      Harm Ubbens                `Building 34`_ `Hall G`_
-   |_|           14:00-16:00  Free      Work on assignment 1                                                           `Building 34`_ `Hall G`_
-   |_|           16:00-17:00  Activity  Report on assignment 1                              Moore, Nieman              `Building 34`_ `Hall G`_
+   F-Jul-04      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
+   |_|           13:00-15:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
+   |_|           15:00-16:00  Lecture   Power in Sports                                     Ragnhild Maarleveld        `Building 33`_ `Hall 9`_
+   |_|           16:00-16:30  Activity  Assignment 2 Introduction                           Moore, Vázquez             `Building 33`_ `Hall 9`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   M-Jul-08      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 34`_ `Hall G`_
-   |_|           13:00-14:00  Lecture   Bicycle Dynamics & Control                          Jason Moore                `Building 34`_ `Hall G`_
-   |_|           14:30-15:00  Activity  Assignment 2 Introduction                           Moore, Nieman              `Building 34`_ `Hall G`_
-   |_|           15:00-17:00  Free      Work on assignment 2                                                           `Building 34`_ `Hall G`_
+   M-Jul-07      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciacchitano        `Building 33`_ `Hall 9`_
+   |_|           13:00-17:00  Workshop  Aerodynamics Workshop                               Wouter Terra               `Open Jet Facility`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   T-Jul-09      09:00-12:00  Activity  Physiology Experiments                              Nieman                     `Bicycle Lab`_
-   |_|           13:00-15:00  Activity  Physiology Experiments                              Nieman                     `Bicycle Lab`_
-   |_|           15:00-16:00  Activity  Office hours, Q & A                                 Moore, Nieman              `Building 34`_ `Hall G`_
-   |_|           16:00-17:00  Activity  Physiology Experiments                              Nieman                     `Bicycle Lab`_
+   T-Jul-08      09:00-13:00  Free      Work on Assignment 2                                Vázquez                    `X Sports Hall`_
+   |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `X Sports Hall`_
+   |_|           14:00-17:00  Free      Work on Assignment 2                                Vázquez                    `X Sports Hall`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   W-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    Frans van der Helm         `Building 34`_ `Hall G`_
-   |_|           13:00-15:30  Free      Work on assignment 2                                                           `Building 34`_ `Hall G`_
-   |_|           15:30-16:30  Activity  Report on Assignment 2                              Moore, Nieman              `Building 34`_ `Hall G`_
-   |_|           16:30-17:00  Activity  Assignment 3 Introduction                           Moore, Nieman              `Building 34`_ `Hall G`_
+   W-Jul-09      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling & Optimization     Jason K. Moore             `Building 33`_ `Hall 8`_
+   |_|           13:00-15:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
+   |_|           15:00-16:00  Activity  Report on Assignment 2                              Moore, Vázquez             `Building 33`_ `Hall 8`_
+   |_|           16:00-17:00  Activity  Bicycling Science                                   Jim Papadopoulos           `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jul-11      09:00-11:00  Lecture   Thermo Physiology                                   Hein Daanen                `Building 34`_ `Hall G`_
-   |_|           11:00-15:00  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
-   |_|           15:00-16:00  Activity  Office hours, Q & A                                 Moore, Nieman              `Building 34`_ `Hall G`_
-   |_|           16:00-17:00  Free      Work on assignment 3                                                           `Building 34`_ `Hall G`_
+   R-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    TBA                        `Building 33`_ `Hall 8`_
+   |_|           12:00-12:10  Free      Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
+   |_|           13:00-16:00  Free      Work on assignment 3                                                           `Building 33`_ `Hall 8`_
+   |_|           16:00-17:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   F-Jul-12      08:00-10:30  Travel    Travel to Race Track (Depart @ 8:15)                                           `TU Delft Aula`_
+   F-Jul-11      08:15-10:00  Travel    Travel to Race Track (Depart @ 8:15)                                           `TU Delft Aula`_
    |_|           10:30-11:30  Activity  Preparation                                                                    `Alkmaar Velodrome`_
-   |_|           11:30-12:30  Activity  Lunch (bring your lunch)
-   |_|           12:30-14:30  Activity  Time trials                                         Moore, Nieman              `Alkmaar Velodrome`_
-   |_|           14:45-17:00  Activity  Final presentations                                 Moore, Nieman              `Alkmaar Velodrome`_
-   |_|           17:00-19:00  Travel    Return to TU Delft                                                             `TU Delft Aula`_
+   |_|           11:30-12:00  Activity  Lunch (bring your lunch)                                                       `Alkmaar Velodrome`_
+   |_|           12:00-14:30  Activity  Time trials                                         Moore, Vázquez             `Alkmaar Velodrome`_
+   |_|           14:30-16:45  Activity  Final presentations                                 Moore, Vázquez             `Alkmaar Velodrome`_
+   |_|           16:45-18:30  Travel    Return to TU Delft                                                             `TU Delft Aula`_
    |_|           19:00-?      Activity  Social event in Delft
    ============  ===========  ========  ==================================================  =========================  ===================
 
-.. _Building 34: https://iamap.tudelft.nl/en/poi/mechanical-maritime-and-materials-engineering-3me/
+.. _Building 33: https://map.tudelftcampus.nl/poi/pulse/
+.. _Building 34: https://map.tudelftcampus.nl/poi/mechanical-engineering-me/
+.. _Hall 8: https://esviewer.tudelft.nl/space/171/
+.. _Hall 9: https://esviewer.tudelft.nl/space/172/
 .. _Hall G: https://esviewer.tudelft.nl/space/11/
-.. _X Sports Hall: https://iamap.tudelft.nl/en/poi/x-previous-sports-culture-2/
-.. _TU Delft Aula: https://iamap.tudelft.nl/en/poi/aula-conference-center/
+.. _Cafe X: https://map.tudelftcampus.nl/poi/x/
+.. _X Sports Hall: https://map.tudelftcampus.nl/poi/x/
+.. _TU Delft Aula: https://map.tudelftcampus.nl/poi/aula-conference-centre/
 .. _Open Jet Facility: https://www.tudelft.nl/lr/organisatie/afdelingen/flow-physics-and-technology/facilities/low-speed-wind-tunnels/open-jet-facility
 .. _ID Kafee: https://studieverenigingid.nl/id-kafee/
 .. _Bicycle Lab: https://mechmotum.github.io/contact.html
