@@ -62,9 +62,8 @@ Workshop
    |_|           14:00-17:00  Free      Work on Assignment 2                                Vázquez                    `X Sports Hall`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    W-Jul-09      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling & Optimization     Jason K. Moore             `Building 33`_ `Hall 8`_
-   |_|           13:00-15:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
-   |_|           15:00-16:00  Activity  Report on Assignment 2                              Moore, Vázquez             `Building 33`_ `Hall 8`_
-   |_|           16:00-17:00  Activity  Bicycling Science                                   Jim Papadopoulos           `Building 33`_ `Hall 8`_
+   |_|           13:00-16:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
+   |_|           16:00-17:00  Activity  Report on Assignment 2                              Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    TBA                        `Building 33`_ `Hall 8`_
    |_|           12:00-12:10  Free      Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
