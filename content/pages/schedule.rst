@@ -65,7 +65,7 @@ Workshop
    |_|           13:00-16:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
    |_|           16:00-17:00  Activity  Report on Assignment 2                              Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    TBA                        `Building 33`_ `Hall 8`_
+   R-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    Frans van der Helm         `Building 33`_ `Hall 8`_
    |_|           12:00-12:10  Free      Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
    |_|           13:00-16:00  Free      Work on assignment 3                                                           `Building 33`_ `Hall 8`_
    |_|           16:00-17:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `Building 33`_ `Hall 8`_
