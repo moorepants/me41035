@@ -36,16 +36,16 @@ Workshop
    |_|           16:30-18:00  Activity  Sports Engineering Borrel (Social)                                             `Cafe X`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    T-Jul-01      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 33`_ `Hall 9`_
-   |_|           13:00-18:00  Activity  Physiology Experiments                              Vázquez                    `Bicycle Lab`_
+   |_|           13:30-18:00  Activity  Physiology Experiments                              Vázquez                    `Bicycle Lab`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   W-Jul-02      09:00-13:00  Lecture   Physiology Experiments                              Vázquez                    `Bicycle Lab`_
+   W-Jul-02      09:00-13:00  Activity  Physiology Experiments                              Vázquez                    `Bicycle Lab`_
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore                      `Building 33`_ `Hall 9`_
    |_|           14:00-18:00  Activity  Physiology Experiments                              Vázquez                    `Bicycle Lab`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-03      09:00-10:00  Free      Work on assignment 1                                                           `Building 33`_ `Hall 9`_
    |_|           10:00-11:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `Building 33`_ `Hall 9`_
    |_|           12:00-14:00  Free      Work on assignment 1                                                           `Building 33`_ `Hall 9`_
-   |_|           14:00-15:00  Free      Report on assignment 1                                                         `Building 33`_ `Hall 9`_
+   |_|           14:00-15:00  Activity  Report on assignment 1                                                         `Building 33`_ `Hall 9`_
    |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  Jason K. Moore             `Building 33`_ `Hall 9`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-04      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
@@ -66,7 +66,7 @@ Workshop
    |_|           16:00-17:00  Activity  Report on Assignment 2                              Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    Frans van der Helm         `Building 33`_ `Hall 8`_
-   |_|           12:00-12:10  Free      Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
+   |_|           12:00-12:10  Activity  Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
    |_|           13:00-16:00  Free      Work on assignment 3                                                           `Building 33`_ `Hall 8`_
    |_|           16:00-17:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
