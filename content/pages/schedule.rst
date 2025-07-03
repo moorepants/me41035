@@ -50,8 +50,8 @@ Workshop
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-04      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
    |_|           13:00-15:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
-   |_|           15:00-16:00  Lecture   Power in Sports                                     Ragnhild Maarleveld        `Building 33`_ `Hall 9`_
-   |_|           16:00-16:30  Activity  Assignment 2 Introduction                           Moore, Vázquez             `Building 33`_ `Hall 9`_
+   |_|           15:00-15:30  Activity  Assignment 2 Introduction                           Moore, Vázquez             `Building 33`_ `Hall 9`_
+   |_|           15:30-17:00  Free      Work on Assignment 2                                                           `Building 33`_ `Hall 9`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    M-Jul-07      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciacchitano        `Building 33`_ `Hall 9`_
@@ -61,13 +61,14 @@ Workshop
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `X Sports Hall`_
    |_|           14:00-17:00  Free      Work on Assignment 2                                Vázquez                    `X Sports Hall`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   W-Jul-09      10:00-12:00  Lecture   Cyclist Musculoskeletal Modeling & Optimization     Jason K. Moore             `Building 33`_ `Hall 8`_
-   |_|           13:00-16:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
+   W-Jul-09      10:00-11:00  Lecture   Power in Sports                                     Ragnhild Maarleveld        `Building 33`_ `Hall 8`_
+   |_|           11:00-12:00  Workshop  Cyclist Musculoskeletal Modeling & Optimization     Moore, Vázquez             `Building 33`_ `Hall 8`_
+   |_|           12:00-16:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
    |_|           16:00-17:00  Activity  Report on Assignment 2                              Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-10      10:00-12:00  Lecture   Doping in Sports                                    Frans van der Helm         `Building 33`_ `Hall 8`_
-   |_|           12:00-12:10  Activity  Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
-   |_|           13:00-16:00  Free      Work on assignment 3                                                           `Building 33`_ `Hall 8`_
+   |_|           12:00-12:20  Activity  Introduction to assignment 3                        Moore, Vázquez             `Building 33`_ `Hall 8`_
+   |_|           12:20-16:00  Free      Work on assignment 3                                                           `Building 33`_ `Hall 8`_
    |_|           16:00-17:00  Activity  Office hours, Q & A                                 Moore, Vázquez             `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-11      08:15-10:00  Travel    Travel to Race Track (Depart @ 8:15)                                           `TU Delft Aula`_
