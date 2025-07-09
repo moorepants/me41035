@@ -80,7 +80,6 @@ the velodrome. The vehicle cannot be larger than a normal bicycle.
 Submit the report to your teams channel "Files" by the deadline and prepare a
 lightning talk to give during class on the results of your assignment.
 
-.
 Assignment 3: Predict Race Duration
 ===================================
 
