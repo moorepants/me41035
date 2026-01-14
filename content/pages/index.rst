@@ -115,15 +115,15 @@ material–athlete interaction. More specifically, students should be:
 Dates
 =====
 
-.. topic:: 2025 Dates
+.. topic:: 2026 Dates
    :class: alert alert-warning
 
-   The course will occur over the two weeks of **June 30, 2025 to July 11,
-   2025** with activities scheduled throughout the day from Monday to Friday
+   The course will occur over the two weeks of **June 29, 2026 to July 10,
+   2026** with activities scheduled throughout the day from Monday to Friday
    each week. The course will be in person in Delft!
 
    If there are not enough registered students, it is possible that the course
-   will not be taught in 2025, so spread the word!
+   will not be taught in 2026, so spread the word!
 
 Credits
 =======
@@ -140,15 +140,15 @@ a guaranteed number of slots for students from each of the participating
 universities. Excess students will be placed on a waiting list. Slots will be
 filled on a first come, first serve basis.
 
-**The registration deadline is March 1, 2025.**
+**The registration deadline is March 1, 2026.**
 
 Registration timeline:
 
-- February 1, 2025: Registration is open.
-- March 1, 2025: Registration deadline.
-- April 1, 2025: Students are informed of their team placement and asked to
+- February 1, 2026: Registration is open.
+- March 1, 2026: Registration deadline.
+- April 1, 2026: Students are informed of their team placement and asked to
   confirm.
-- May 1, 2025: Final confirmation of participation.
+- May 1, 2026: Final confirmation of participation.
 
 Reach out to your university's coordinator to find out how to register:
 
@@ -163,7 +163,7 @@ Reach out to your university's coordinator to find out how to register:
      - Coordinator
      - Email
    * - Delft University of Technology
-     - 25
+     - 20
      - Email coordinator
      - Nicole Kleven
      - N.J.M.Kleven@tudelft.nl
@@ -183,7 +183,7 @@ Reach out to your university's coordinator to find out how to register:
      - Stephan Odenwald
      - stephan.odenwald@mb.tu-chemnitz.de
    * - FH Technikum Wien
-     - 10
+     - 5
      - Email coordinator
      - Stefan Litzenberger
      - litzenberger@technikum-wien.at
@@ -201,18 +201,13 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
 |
-| Eloy Vázquez Fernández
-| Teaching Assistant
-| Sports Engineering Institute, Delft University of Technology
-| E.VazquezFernandez@student.tudelft.nl
-|
 
 Communication
 =============
 
 We will make use of the `Microsoft Teams`_ platform for all course
 communication and hybrid lectures. We will use a "Team" named "Special Topics
-in Sports Engineering 2025" for announcements, hybrid lectures, and channels
+in Sports Engineering 2026" for announcements, hybrid lectures, and channels
 will also be available for your group to use for group work.  Hopefully, all
 communication about the class will stay within the team to simplify working
 across multiple universities and countries. Steps to getting access to the
@@ -222,7 +217,7 @@ team:
   desktop platforms).
 - If you are TU Delft student or employee, open Teams and log in with your TU
   Delft netid. Once logged in, you should see the "Special Topics in Sports
-  Engineering 2025" team under "Teams" in the MS Teams application. You are
+  Engineering 2026" team under "Teams" in the MS Teams application. You are
   done.
 - If you are not with TU Delft, create a free `Microsoft account`_ then check
   the email you registered with for the course for an invitation to the team.
@@ -230,7 +225,7 @@ team:
   University of Technology in Microsoft Teams".
 - Click the "Open Microsoft Teams" link in the email and sign into MS Teams
   with your Microsoft account. You should see the "Special Topics in Sports
-  Engineering 2025" team under "Teams" in the MS Teams application. You are
+  Engineering 2026" team under "Teams" in the MS Teams application. You are
   done.
 
 It is important to access the team the week before class and report any issues
@@ -243,7 +238,7 @@ lectures, send an email to the teaching assistant with a request to be added.
 To join the live lectures and activities:
 
 1. Open the Microsoft Teams application.
-2. Select "Teams" and then "Special Topics in Sports Engineering 2025".
+2. Select "Teams" and then "Special Topics in Sports Engineering 2026".
 3. Select the "General" channel (if not already selected).
 4. Wait for the video meeting to start and select "Join" when the meeting is
    active.
@@ -259,7 +254,7 @@ Assessment
 ==========
 
 **All assessment documents should be submitted as a PDF to the "Files" area of
-your group's private channel in the "Sports Engineering 2025" MS Team.**
+your group's private channel in the "Sports Engineering 2026" MS Team.**
 
 Intermediate Reporting
 ----------------------
@@ -279,7 +274,7 @@ Final Report
 
 Each group should submit a PDF final report with maximum of 6 pages of content
 including methods, results, and discussion based on the two intermediate
-reports and your final work by **23:59 Friday July 18th, 2025**. At least six
+reports and your final work by **23:59 Friday July 17th, 2026**. At least six
 scientific literature resources should be used and cited. The title, author
 list, and bibliography do not count against the page limit.
 

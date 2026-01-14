@@ -4,6 +4,12 @@
 .. |_| unicode:: 0xA0
    :trim:
 
+.. topic:: 2026 Schedule
+   :class: alert alert-warning
+
+   Below is the 2025 schedule for reference. The 2026 schedule will be similar
+   and finalized in June.
+
 **Listed times are CEST (UTC +2).**
 
 Office Hours
