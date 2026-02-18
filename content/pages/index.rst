@@ -170,8 +170,8 @@ Reach out to your university's coordinator to find out how to register:
    * - Sheffield Hallam University
      - 10
      - Email coordinator
-     - Michael Thelwell
-     - M.Thelwell@shu.ac.uk
+     - John Hart
+     - john.hart@shu.ac.uk
    * - Aalborg Universitet
      - 5
      - Email coordinator
