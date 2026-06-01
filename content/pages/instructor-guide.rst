@@ -56,6 +56,8 @@ June
   invoicing with Coordinator.
 - [All] Meet one week before class starts to review all outstanding information
   and issues.
+- [TA] Make attendance sign in sheets for each day and manage this through the
+  two weeks.
 - [Instructor] Send out welcome emails to both students and lecturers with
   basic course info.
 - [TA] One week before, test out a full physio experiment with the Cosmed.
