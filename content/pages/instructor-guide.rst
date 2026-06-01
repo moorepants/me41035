@@ -7,9 +7,47 @@ Instructor Guide
 
 January
 
-- Update the course website with registration info, put warnings on schedule,
-  and hide assignments.
-- Set up the Brightspace page with registration instructions
+- [Instructor] Update the course website with registration info, put warnings
+  on schedule, and hide assignments.
+- [Instructor] Set up the Brightspace page with registration instructions.
+- [Instructor] Check that the room has been scheduled in mytimetable.
+- Instructor and Sports Engineering Institute meet to plan this year.
+
+February
+
+- Registration opens Feb 1.
+- [Sports Institute] Advertise the course in flyers and coffee machin screens.
+- [Sports Institute] Manage registrations, make wait list.
+
+March
+
+- Regsitration closes Mar 1.
+- [Sports Institute] Send out confirmation of course registration.
+- Check-in meeting about registration and planning between instructor and
+  institute.
+
+May
+
+- [Sports Institute] Final confirmation with team members. Add team members to
+  reduce chance of no shows on first day.
+- [Instructor] Find a teaching assistant.
+- [Sports Institute] Hire the teaching assistant.
+- [Instructor] Finalize the schedule and update the website.
+
+June
+
+- [Instructor] Move last years releveant files to this year's google drive and
+  share with the teaching assistant.
+- [Instructor] Create new MS Teams.
+- [Teaching Assistnt] Add teams and private channels to MS Teams. Make sure
+  everyone can access.
+- [Teaching Assistant] Get trained on using the Cosmed system (ideally from the
+  lab coordinator).
+- [Teaching Assistant] Book the BHV (first aid) person to be present during
+  physio tests. Call around to companies, least cost if possible. Arrange
+  invoicing with Sports Institute.
+- Meet one week before class starts to review all outstanding information and
+  issues.
 
 Github
 ======
@@ -24,25 +62,45 @@ Brightspace
 
 Only using for announcements to TU Delft students.
 
-Course email list
+Course Email List
 =================
 
-Way to announce to all involved.
+There is a list of participants and their email address. Announcements can be
+made via email to announce to all involved.
 
 TU Delft Coordinator Responsibilities
 =====================================
 
+- managing registrations
 - forming teams
+- ask lecturers for participation
+- booking the X hall
+- booking the velodrome
+- booking the bus to the velodrome
+- organizing a social with a speaker
 
 TA Responsibiilties
 ===================
 
-- assisting John and me with the assessment of the assignments
+- learn to use the cosmed
+- book the first aid company for the physio testing
+- organize and perform the physio testing
+- managing any equipment used from the bike lab, finding out what students may
+  need, making sure anything expensive is handled with care, being generally
+  present and helpful
 - helping answer questions during office hour sessions
 - presence during the experiment sessions
-- reporting on the assignments
-- making presentation schedule
-- setup meetup for hybrid lectures
+- presence during reporting on the assignments and spinning the random wheel to
+  call teams to present
+- assisting instructors with the assessment of the assignments (giving written
+  feedback on the reports in the evening, one day turn-around usually)
+- making presentation schedule (or random wheel)
+- setup meetup for hybrid lectures if needed (usually one lecture has to be
+  online)
+- organize the social activity on the last Friday. We've done bowling, mooie
+  boules, beach volleyball, etc. Note that collecting money from everyone at
+  the end (tikkie, for example) does not always go well. Best to get upfront
+  buy in if possible.
 
 Forming teams
 -------------
@@ -50,48 +108,39 @@ Forming teams
 - Only students who are actually enrolled will participate in the team work for
   the assignments. (students list in the roster spreadsheet)
 - Teams should be made up with 4 people ideally, but can be 3 or 5 if
-  necessary.
+  necessary. We have a max of 45 students and thus can do 9 five person teams.
+  That is about our limit. Having 8 teams might be preferrable.
 - The teams should maximize the mixture of students from the different
   universities, otherwise random selection.
 - Form the teams prior to the first day so that we can post the team list with
   contact info on the first day. Make a PDF contact list showing the teams and
   their emails.
 
-Recording and sharing lectures
-------------------------------
-
-- Each lecture should be recorded.
-- Announce at the beginning of each lecture that the lecture will be recorded.
-- Test recording with whatever service we use (zoom, teams).
-- Need to get consent from the lecturer to post to the Sports Engineering
-  Institute youtube channel.
-- Need to share videos posted to Youtube with the coordinators as there are
-  some participants that will just watch the lectures.
-
 Office hours
 ------------
 
-- Be present to help answer questions.
-- Breakout rooms (MS teams https://support.microsoft.com/en-us/office/use-breakout-rooms-in-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461)
+- All instructors and teaching assistants should be present to help answer
+  questions during these scheduled time periods.
+- On the physical testing days we can split between the X hall, bike lab,
+  and/or classroom.
 
 Assignment reporting
 --------------------
 
-- Help with assessments
+- After each assignment the teams give a presentation.
+- A subset of the team can speak in the first two lighting presentations. All
+  students in the team must speak in the last presentation.
+- Ask a question if students in the room do not ask questions.
+- Prepare a timer to be strict on lightning talk time limits and have a way to
+  randomly select teams if there are no volunteers.
 
 Final Presentations
 -------------------
+
+We have 2 hours to do the final presentations
 
 15 minute presentation per team + 5 Q & A + 10 min assess
 
 5-6 hours of presentations
 
 TA makes the presentation schedule
-
-Pub Quiz
---------
-
-On the first friday @ 16 CEST we will have an online social. Prep, organize,
-and run a bicycle themed pub quiz. We can keep the same teams as for the
-assignments but also incorparte any other's that join.
-
