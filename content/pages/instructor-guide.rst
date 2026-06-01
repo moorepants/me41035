@@ -11,43 +11,57 @@ January
   on schedule, and hide assignments.
 - [Instructor] Set up the Brightspace page with registration instructions.
 - [Instructor] Check that the room has been scheduled in mytimetable.
-- Instructor and Sports Engineering Institute meet to plan this year.
+- [Instructor and Coordinator] Meet to plan this year.
+- [Instructor] Schedule Brightspace announcements for registration.
 
 February
 
 - Registration opens Feb 1.
-- [Sports Institute] Advertise the course in flyers and coffee machin screens.
-- [Sports Institute] Manage registrations, make wait list.
+- [Coordinator] Advertise the course in flyers, coffee machine screens, etc.
+- [Coordinator] Manage registrations and wait list.
+- [Coordinator] Write to guest lecturers and ask for their participation. Give
+  an idea of what dates work best for us.
 
 March
 
 - Regsitration closes Mar 1.
-- [Sports Institute] Send out confirmation of course registration.
-- Check-in meeting about registration and planning between instructor and
-  institute.
+- [Coordinator] Send out confirmation of course registration.
+- [Instructor and Coordinator] Check-in meeting about registration and planning
+  between instructor and institute.
+- [Instructor] Reserve the Cosmed for the expected days we will need it.
 
 May
 
-- [Sports Institute] Final confirmation with team members. Add team members to
+- [Coordinator] Final confirmation with team members. Add team members to
   reduce chance of no shows on first day.
 - [Instructor] Find a teaching assistant.
-- [Sports Institute] Hire the teaching assistant.
+- [Coordinator] Hire the teaching assistant.
 - [Instructor] Finalize the schedule and update the website.
+- [Instructor] Meet with teaching assistant and share all info. Add TA to
+  shared folder and github and brightspace.
 
 June
 
+- [Instructor] Finalize schedule and post to the website.
+- [TA] Order any Cosmed consumables we need.
 - [Instructor] Move last years releveant files to this year's google drive and
   share with the teaching assistant.
 - [Instructor] Create new MS Teams.
 - [Teaching Assistnt] Add teams and private channels to MS Teams. Make sure
   everyone can access.
-- [Teaching Assistant] Get trained on using the Cosmed system (ideally from the
+- [TA] Get trained on using the Cosmed system (ideally from the
   lab coordinator).
-- [Teaching Assistant] Book the BHV (first aid) person to be present during
+- [TA] Book the BHV (first aid) person to be present during
   physio tests. Call around to companies, least cost if possible. Arrange
-  invoicing with Sports Institute.
-- Meet one week before class starts to review all outstanding information and
-  issues.
+  invoicing with Coordinator.
+- [All] Meet one week before class starts to review all outstanding information
+  and issues.
+- [Instructor] Send out welcome emails to both students and lecturers with
+  basic course info.
+- [TA] One week before, test out a full physio experiment with the Cosmed.
+- [TA] Gather up all experimental equipment we may need and organize it a tote
+  we can carry to the classroom, sports hall, and velodrome. Use the bike lab
+  checkout system.
 
 Github
 ======
@@ -68,8 +82,8 @@ Course Email List
 There is a list of participants and their email address. Announcements can be
 made via email to announce to all involved.
 
-TU Delft Coordinator Responsibilities
-=====================================
+Sports Institute Coordinator Responsibilities
+=============================================
 
 - managing registrations
 - forming teams
@@ -137,10 +151,5 @@ Assignment reporting
 Final Presentations
 -------------------
 
-We have 2 hours to do the final presentations
-
-15 minute presentation per team + 5 Q & A + 10 min assess
-
-5-6 hours of presentations
-
-TA makes the presentation schedule
+We have 2 hours to do the final presentations. 6 minute presentation per team +
+5 min Q & A. We do these in a booked room across the street from the velodrome.
