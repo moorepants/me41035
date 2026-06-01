@@ -3,6 +3,10 @@ Sports Engineering course. The rendered version can be viewed at:
 
 http://moorepants.github.io/me41035
 
+See the instructor guide:
+
+https://moorepants.github.io/me41035/instructor-guide.html
+
 Editing Guide
 =============
 
