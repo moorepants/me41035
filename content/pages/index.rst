@@ -201,6 +201,9 @@ Course Organizers
 | Sports Engineering Institute, Delft University of Technology
 | N.J.M.Kleven@tudelft.nl
 |
+| Matthijs van den Broek
+| Teaching Assistant
+| M.G.vandenBroek@student.tudelft.nl
 
 Communication
 =============
