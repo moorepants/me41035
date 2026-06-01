@@ -98,6 +98,8 @@ Sports Institute Coordinator Responsibilities
 TA Responsibiilties
 ===================
 
+- collect the lecture slides from the lecturers and upload them to MS Teams
+  ASAP
 - learn to use the cosmed
 - book the first aid company for the physio testing
 - organize and perform the physio testing
