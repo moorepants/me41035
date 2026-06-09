@@ -47,7 +47,7 @@ June
 - [Instructor] Move last years releveant files to this year's google drive and
   share with the teaching assistant.
 - [Instructor] Create new MS Teams.
-- [Teaching Assistnt] Add teams and private channels to MS Teams. Make sure
+- [TA] Add groups and private channels to MS Teams. Make sure
   everyone can access.
 - [TA] Get trained on using the Cosmed system (ideally from the
   lab coordinator).
