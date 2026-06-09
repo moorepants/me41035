@@ -158,6 +158,20 @@ Final Presentations
 We have 2 hours to do the final presentations. 6 minute presentation per team +
 5 min Q & A. We do these in a booked room across the street from the velodrome.
 
+Setting up MS Teams
+-------------------
+
+- The Sports Engineering Institute coordinator registers all students and forms
+  them into teams. They place the roster with team assignments in the shared
+  drive.
+- The TA makes team names for the year and adds those to the roster
+  spreadsheet.
+- TA then adds each student as a member to the MS Team.
+- TA creates private channels for each group and names the channel the group
+  name and adds the correct team members to the group.
+- It may be best to do this after the first day because sometimes there is some
+  shuffling of people on teams.
+
 Monday "Meet Your Team"
 -----------------------
 
