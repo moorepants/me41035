@@ -157,3 +157,28 @@ Final Presentations
 
 We have 2 hours to do the final presentations. 6 minute presentation per team +
 5 min Q & A. We do these in a booked room across the street from the velodrome.
+
+Notes on MS Teams
+=================
+
+- Create a "Team" and select "Class" as the type.
+- This team can have channels, for example one for each group in the class to
+  chat, discuss, and meet in. There is a default general channel.
+- Guests that don't have tudelft.nl email addresses can be added by adding a
+  member and typing their email address. They'll get an email notification to
+  log into team with their personal MS account. They'll be a "guest" when the
+  log in that has fewer permissions than tudelft.nl people, but from the
+  student perspective it shouldn't be different. If we want to give John Hart
+  more permissions it might matter.
+- Breakout groups is missing on Linux, so Jan will have to handle that if we
+  need it., But we may be able to make a channel for each group and we can hop
+  into the group's channel to help them.
+- John had trouble logging in on his first attempt. With the error:
+  > Invitation redemption failed
+  > AADB2B_0001 : We cannot create a self-service Azure AD account for you
+  > because the directory is federated. Tenant’s admin must create an account for you.
+- Doesn't look like I can send a single url for people to join the team (at
+  least not the people outside TUD), but that I have to add them directly to
+  the team and they will get an email invite.
+- Looks like we can schedule meetings associated with the team, so we can also
+  get an access link and have them show up in people's calendars (probably).
