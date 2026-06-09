@@ -158,6 +158,28 @@ Final Presentations
 We have 2 hours to do the final presentations. 6 minute presentation per team +
 5 min Q & A. We do these in a booked room across the street from the velodrome.
 
+Monday "Meet Your Team"
+-----------------------
+
+We need to bring a ball, frisbee (soft preferably), or some other thing to
+toss.
+
+- Get in big circle.
+- Each person says their name with an adjective with matching first letter:
+  "Jumping Jason" and they should do the action, i.e. Jason jumps up and down.
+- Now toss the ball to a person and the ball tosser says the person's name they
+  toss to.
+- Keep going until everyone catches the ball and their name is said again.
+
+Monday "First Team Assignment"
+------------------------------
+
+Things to bring:
+
+- Need tape/stickers to stick on ground
+- Need a way to lift the table slightly to make the table into a sloped ramp
+- Try to get some new bouncy tennis balls (borrow preferably)
+
 Notes on MS Teams
 =================
 
