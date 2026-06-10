@@ -51,6 +51,8 @@ June
   everyone can access.
 - [TA] Get trained on using the Cosmed system (ideally from the
   lab coordinator).
+- [TA] Test the physio test completely with someone and get sample data to
+  provide to the students.
 - [TA] Book the BHV (first aid) person to be present during
   physio tests. Call around to companies, least cost if possible. Arrange
   invoicing with Coordinator.
