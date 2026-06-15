@@ -47,8 +47,8 @@ Workshop
    |_|           11:00-12:00  Activity  Office hours, Q & A                                 Moore, van den Broek       `Building 33`_ `Hall 9`_
    |_|           12:00-14:00  Free      Lunch & Work on assignment 1                                                   `Building 33`_ `Hall 9`_
    |_|           14:00-15:00  Activity  Report on assignment 1                                                         `Building 33`_ `Hall 9`_
-   |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  Gabrile Dell'Orto          `Building 33`_ `Hall 9`_
-   |_|                                                                                      Eloy Vázquez
+   |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  Gabrile Dell'Orto,         `Building 33`_ `Hall 9`_
+                                                                                            Eloy Vázquez
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-03      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
    |_|           13:00-15:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
@@ -70,7 +70,7 @@ Workshop
    |_|           15:00-17:00  Lecture   Doping in Sports                                    Frans van der Helm         `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    R-Jul-09      10:30-12:00  Lecture   Cycling Aerodynamics: From History and Physics      Fabio Malizia              `Building 33`_ `Hall 8`_
-   |_|                                  to Modern CFD
+                                        to Modern CFD
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, van den Broek       `Building 33`_ `Hall 8`_
    |_|           14:00-17:00  Free      Work on assignment 3                                                           `Building 33`_ `Hall 8`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
