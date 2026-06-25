@@ -47,7 +47,7 @@ Workshop
    |_|           11:00-12:00  Activity  Office hours, Q & A                                 Moore, van den Broek       `Building 33`_ `Hall 9`_
    |_|           12:00-14:00  Free      Lunch & Work on assignment 1                                                   `Building 33`_ `Hall 9`_
    |_|           14:00-15:00  Activity  Report on assignment 1                                                         `Building 33`_ `Hall 9`_
-   |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  Gabrile Dell'Orto,         `Building 33`_ `Hall 9`_
+   |_|           15:00-17:00  Lecture   Bicycle Tires & Rolling Resistance                  Gabriele Dell'Orto,        `Building 33`_ `Hall 9`_
                                                                                             Eloy Vázquez
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    F-Jul-03      10:00-12:00  Lecture   Smartphone Measurement and Data Analysis            Jason K. Moore             `Building 33`_ `Hall 9`_
