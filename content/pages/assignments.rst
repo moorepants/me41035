@@ -20,33 +20,33 @@ At least one consistent rider should participate in all three assignments so
 that you can use the data from assignments 1 and 2 to support assignment 3 at
 the velodrome.
 
+Assignment 1: Estimate Athlete Power Capacity
+=============================================
+
+The objective of this assignment is to estimate aerobic capacity in two ways
+and anaerobic capacity in one way for at least one member of your group. Both
+capacity results should be based off of data your group collects, but should be
+supplemented or supported by values found in relevant scientific literature.
+You will have the option to do a Wingate and VO2-Max test in the bicycle lab
+for one subject per team, so the second aerobic test should be using a simple
+method. [1]_
+
+The aims are to:
+
+- Design and execute simple experiments using measurement tools at your
+  disposal to collect the necessary data needed for your estimates.
+- Calculate reasonable estimates for the aerobic and anaerobic capacity of the
+  chosen athlete(s).
+- Compare the aerobic capacities from the two methods and report on the
+  anaerobic capacity of the single method.
+- Report on your experiment and result in the light of available information
+  from sports engineering scientific literature.
+
+.. [1] Your team may opt out of performing the Wingate and VO2max tests. In
+   that case, use simpler tests, another team's data, or data from literature.
+
 ..
    :status: hidden
-
-   Assignment 1: Estimate Athlete Power Capacity
-   =============================================
-
-   The objective of this assignment is to estimate aerobic capacity in two ways
-   and anaerobic capacity in one way for at least one member of your group. Both
-   capacity results should be based off of data your group collects, but should be
-   supplemented or supported by values found in relevant scientific literature.
-   You will have the option to do a Wingate and VO2-Max test in the bicycle lab
-   for one subject per team, so the second aerobic test should be using a simple
-   method. [1]_
-
-   The aims are to:
-
-   - Design and execute simple experiments using measurement tools at your
-     disposal to collect the necessary data needed for your estimates.
-   - Calculate reasonable estimates for the aerobic and anaerobic capacity of the
-     chosen athlete(s).
-   - Compare the aerobic capacities from the two methods and report on the
-     anaerobic capacity of the single method.
-   - Report on your experiment and result in the light of available information
-     from sports engineering scientific literature.
-
-   .. [1] Your team may opt out of performing the Wingate and VO2max tests. In
-      that case, use simpler tests, another team's data, or data from literature.
 
    Assignment 2: Estimate Air and Rolling Resistance
    =================================================
