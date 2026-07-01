@@ -36,14 +36,14 @@ Workshop
    |_|           16:00-17:00  Lecture   KNWU Paralympic Paracycling                         Jenning Huizenga           `Cafe X`_
    |_|           16:00-18:00  Activity  Sports Engineering Borrel (Social)                                             `Cafe X`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   T-Jun-30      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 33`_ `Hall 9`_
+   T-Jun-30      10:00-12:00  Lecture   Physiological Power Generation in Sports            Mathijs Hofmijster         `Building 33`_ `Hall 8`_
    |_|           13:00-18:00  Activity  Physiology Experiments                              van den Broek, Vázquez     `Bicycle Lab`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    W-Jul-01      09:00-13:00  Activity  Physiology Experiments                              van den Broek, Vázquez     `Bicycle Lab`_
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore                      `Building 33`_ `Hall 9`_
    |_|           14:00-18:00  Activity  Physiology Experiments                              van den Broek, Vázquez     `Bicycle Lab`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   R-Jul-02      10:00-11:00  Lecture   Power in Sports                                     Eline van der Kruk         `Building 33`_ `Hall 8`_
+   R-Jul-02      10:00-11:00  Lecture   Power in Sports                                     Eline van der Kruk         `Building 33`_ `Hall 9`_
    |_|           11:00-12:00  Activity  Office hours, Q & A                                 Moore, van den Broek       `Building 33`_ `Hall 9`_
    |_|           12:00-14:00  Free      Lunch & Work on assignment 1                                                   `Building 33`_ `Hall 9`_
    |_|           14:00-15:00  Activity  Report on assignment 1                                                         `Building 33`_ `Hall 9`_
