@@ -59,9 +59,11 @@ Workshop
    M-Jul-06      10:00-12:00  Lecture   Cycling Aerodynamics                                Andrea Sciacchitano        `Building 33`_ `Hall 9`_
    |_|           13:00-17:00  Workshop  Aerodynamics Workshop                               Wouter Terra               `Open Jet Facility`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
-   T-Jul-07      09:00-13:00  Free      Work on Assignment 2                                van den Broek              `X Sports Hall`_
+   T-Jul-07      09:00-10:00  Free      Work on Assignment 2                                                           `Building 33`_ `Hall 9`_
+   |_|           10:00-13:00  Free      Work on Assignment 2                                van den Broek              `X Sports Hall`_
    |_|           13:00-14:00  Activity  Office hours, Q & A                                 Moore, van den Broek       `X Sports Hall`_
-   |_|           14:00-17:00  Free      Work on Assignment 2                                van den Broek              `X Sports Hall`_
+   |_|           14:00-16:00  Free      Work on Assignment 2                                van den Broek              `X Sports Hall`_
+   |_|           16:00-17:00  Free      Work on Assignment 2                                                           `Building 33`_ `Hall 9`_
    ------------  -----------  --------  --------------------------------------------------  -------------------------  -------------------
    W-Jul-08      10:00-11:00  Workshop  Modeling and Optimization in Sports                 Jason K. Moore             `Building 33`_ `Hall 8`_
    |_|           11:00-13:00  Free      Work on assignment 2                                                           `Building 33`_ `Hall 8`_
